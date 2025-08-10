@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.2.0",
+  "minRequiredVersion": "1.0.0",
+  "downloadUrl": "https://roazium.github.io/data-monitoring-app-updates/releases/v1.2.0/MyApp-v1.2.0.zip",
+  "releaseDate": "2025-01-15T10:30:00Z",
+  "fileSize": 15728640,
+  "checksum": "sha256:a1b2c3d4e5f6789012345678901234567890123456789012345678901234567890",
+  "isRequired": false,
+  "releaseNotes": {
+    "en": "Bug fixes and performance improvements",
+    "ko": "버그 수정 및 성능 개선"
+  },
+  "releaseNotesUrl": "https://roazium.github.io/data-monitoring-app-updates/releases/v1.2.0/release-notes.md",
+  "minimumOSVersion": "Windows 10",
+  "supportedArchitectures": ["x86", "x64"]
+}
